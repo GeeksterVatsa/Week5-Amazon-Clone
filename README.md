@@ -1,5 +1,5 @@
 # Week5-Amazon-Clone
-hosted: 
+hosted: https://geekstervatsa.github.io/Week5-Amazon-Clone/
 
 ![image](https://github.com/GeeksterVatsa/Week5-Amazon-Clone/assets/144803484/0ca55197-242b-4979-bbf0-355f1e64c2ec)
 ![image](https://github.com/GeeksterVatsa/Week5-Amazon-Clone/assets/144803484/c9a9b6be-a9df-4e6a-973e-7c56f9bf8ea7)
